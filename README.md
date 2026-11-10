@@ -10,7 +10,7 @@ Paste a DOI or a paper title, and Data Pedigree reads the paper's data availabil
 | ⚠️ **Available on request** | Data is not public; the authors must be asked. The tool drafts a polite request email. |
 | ❌ **Not available** | No statement, data restricted (licence, company, privacy), or explicitly not shared. |
 
-🔗 **Live site:** https://rajputzaibii.github.io/data-pedigree/ *(replace after publishing)*
+🔗 **Live site:** https://github.com/rajputzaibii/data-pedigree
 
 ---
 
